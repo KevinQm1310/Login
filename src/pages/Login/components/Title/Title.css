@@ -1,0 +1,8 @@
+.title-container {
+    color: rgb(253, 164, 0);
+    font-size: 50px; /*tamaño*/
+    text-align: center; /*alineación*/
+    font-weight: bold; /*negrita*/
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    ;
+}
